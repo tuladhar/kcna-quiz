@@ -7,4 +7,5 @@ npx create-next-app@latest kcna-quiz
 cd knca-quiz
 npm install framer-motion lucide-react canvas-confetti @icons-pack/react-simple-icons --legacy-peer-deps
 npx next dev
+npm i --save-dev @types/canvas-confetti --legacy-peer-deps
 ```
